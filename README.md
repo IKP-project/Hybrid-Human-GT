@@ -3,3 +3,4 @@
 - This repository will contain implementation code and related material.
 - Anonymous authors. 
 
+![Dental cluster graph](case_dental/preview-dental.png)
